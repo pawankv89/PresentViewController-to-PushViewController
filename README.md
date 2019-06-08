@@ -1,14 +1,15 @@
 
-MoveScreen
+# PresentViewController To PushViewController
+
 =========
 
-## MoveScreen.
+## PresentViewController To PushViewController.
 ------------
  Added Some screens here.
  
-[![](https://github.com/pawankv89/MoveScreen/blob/master/Screens/1.png)]
-[![](https://github.com/pawankv89/MoveScreen/blob/master/Screens/2.png)]
-[![](https://github.com/pawankv89/MoveScreen/blob/master/Screens/3.png)]
+![](https://github.com/pawankv89/MoveScreen/blob/master/Screens/1.png)
+![](https://github.com/pawankv89/MoveScreen/blob/master/Screens/2.png)
+![](https://github.com/pawankv89/MoveScreen/blob/master/Screens/3.png)
 
 ## Usage
 ------------
